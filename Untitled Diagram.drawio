@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-13T02:55:09.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36" etag="RZB4DhRQSaB_adK_X3lW" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T03:00:34.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36" etag="Wn-059DP3UtzXLkCYl3T" version="12.6.8" type="github">
   <diagram id="_YipPkewyBk34bMuq43o" name="Page-1">
-    <mxGraphModel dx="1278" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -124,7 +124,7 @@
           <mxGeometry x="880" y="910" width="240" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="rCLYXN7DCDHgUodaoLz5-49" value="&lt;font size=&quot;3&quot;&gt;佣金设置和升级条件都在分销等级设置&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="655" y="135" width="170" height="110" as="geometry"/>
+          <mxGeometry x="660" y="50" width="170" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="rCLYXN7DCDHgUodaoLz5-50" value="代理区域：禅城区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="880" width="110" height="20" as="geometry"/>
@@ -286,7 +286,7 @@
           <mxGeometry x="400" y="1770" width="390" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="AteODEBrBmXERU6m-dq5-1" value="&lt;font style=&quot;font-size: 18px&quot; color=&quot;#ff3333&quot;&gt;&lt;b style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;在商品中设置为保单升级才有&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="190" y="210" width="190" height="80" as="geometry"/>
+          <mxGeometry x="660" y="180" width="200" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
